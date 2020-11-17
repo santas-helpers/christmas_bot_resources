@@ -1,0 +1,17 @@
+{
+  "db_url": {
+    "drivername": "postgres+psycopg2",
+    "username": "insert",
+    "password": "info",
+    "host": "here",
+    "port": 5432,
+    "database": "christmasbot"
+  },
+  "db_schema": "beta",
+  "s3_config": {
+    "aws_access_key_id": "also",
+    "aws_secret_access_key": "this",
+    "aws_region": "us-west-1",
+    "s3_bucket": "christmasbot-beta"
+  }
+}
