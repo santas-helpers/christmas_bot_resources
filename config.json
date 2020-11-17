@@ -1,16 +1,16 @@
 {
   "db_url": {
     "drivername": "postgres+psycopg2",
-    "username": "beta_upload",
-    "password": "c>-A]ZqF#wSw(_$;S#ggYHu?rQv:4~5H",
-    "host": "christmasbot-db.comnjzshch4a.us-west-1.rds.amazonaws.com",
+    "username": "oops",
+    "password": "i",
+    "host": "did",
     "port": 5432,
     "database": "christmasbot"
   },
   "db_schema": "beta",
   "s3_config": {
-    "aws_access_key_id": "AKIAU3XN4BQG4FHEN66F",
-    "aws_secret_access_key": "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",
+    "aws_access_key_id": "it",
+    "aws_secret_access_key": "again",
     "aws_region": "us-west-1",
     "s3_bucket": "christmasbot-beta"
   }
