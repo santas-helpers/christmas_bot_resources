@@ -4,7 +4,7 @@ from mimetypes import guess_type
 import boto3
 from botocore.errorfactory import ClientError
 
-from uploader.config import AWS_ACCESS_KEY_ID, AWS_SECRET_ACCESS_KEY, AWS_REGION, AWS_S3_BUCKET_NAME
+from config import AWS_ACCESS_KEY_ID, AWS_SECRET_ACCESS_KEY, AWS_REGION, AWS_S3_BUCKET_NAME
 
 
 session = boto3.Session(

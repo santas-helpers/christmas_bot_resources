@@ -1,7 +1,7 @@
 import sys
 
-from uploader.db import insert_creatures_into_db, insert_items_into_db
-from uploader.s3 import upload_images
+from db import insert_creatures_into_db, insert_items_into_db
+from s3 import upload_images
 
 
 if len(sys.argv) == 1:

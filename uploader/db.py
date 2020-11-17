@@ -3,7 +3,7 @@ import os
 from sqlalchemy import Table, Column, Integer, ARRAY, Text, MetaData, create_engine
 from sqlalchemy.sql import select
 
-from uploader.config import DB_CONFIG, DB_SCHEMA
+from config import DB_CONFIG, DB_SCHEMA
 
 import json
 
